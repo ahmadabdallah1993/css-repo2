@@ -1,0 +1,44 @@
+body{
+    /* background-color: rgb(112, 165, 208); */
+}
+
+
+
+
+
+h1{
+    background-color: rgb(230, 242, 196);
+    border: 10px solid black;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+
+    margin-right: 150px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    margin-top: 50px;
+    /* margin: 20px 20px 20px 20px; */
+
+    font-family: 'BhuTuka Expanded One', cursive;
+font-family: 'Ibarra Real Nova', serif;
+}
+
+
+p{
+    background-color: rgb(255, 255, 255);
+}
+
+#third-p{
+    background-color:brown ;
+}
+
+
+#idForDev{
+    background-color: #ff56a2;
+}
+
+.bordered-p{
+    background-color: rgb(183, 143, 188);
+    border: 3px solid black;
+}
